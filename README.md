@@ -8,4 +8,3 @@ cd test-project
 rustc hello.rs
 ./hello
 ```
-Or just press the *Run Code* button found in the top right of the editor panel.

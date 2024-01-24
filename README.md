@@ -1,6 +1,6 @@
-This is an example Rust project used in Daytona.
+This is an example devcontainer template for rust. 
 
-[Try it out](https://daytona.io/#https://github.com/daytonaio-templates/rust)
+TODO: add devcontainer and github workflow. 
 
 Open the terminal and run:
 ```sh
@@ -9,7 +9,3 @@ rustc hello.rs
 ./hello
 ```
 Or just press the *Run Code* button found in the top right of the editor panel.
-
-### Want to contribute?
-
-Feel free to [open a PR](https://github.com/daytonaio-templates/rust) with any suggestions for this test project 😃 

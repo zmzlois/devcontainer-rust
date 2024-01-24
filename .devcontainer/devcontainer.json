@@ -1,0 +1,5 @@
+{
+    "image": "codeany/templates-base-alpine",
+    "postCreateCommand": "uname -a",
+    "remoteUser": "vscode"
+}
